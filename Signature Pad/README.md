@@ -1,2 +1,2 @@
-#Signature Pad for SmartForms
+# Signature Pad for SmartForms
 Instructions
