@@ -39,4 +39,4 @@ Currently, the Signature Pad has very limited theming applied to it. It is in es
 
 [Signature Pad Styling](http://szimek.github.io/signature_pad/css/signature-pad.css)
 
-The only easy customization included right now is to set the pad's height and width. Pass your custom values into parameters when the views are initialized and it will scall accordingly. Just ensure that you use the same settings for both the capture and redraw views, else the signature could be truncated. 
+The only easy customization included right now is to set the pad's height and width. Pass your custom values into parameters when the views are initialized and it will scale accordingly. Just ensure that you use the same settings for both the capture and redraw views, else the signature could be truncated. 
